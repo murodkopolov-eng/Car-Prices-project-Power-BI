@@ -4,7 +4,7 @@
 This project is an interactive Power BI dashboard designed to analyze car sales performance. It provides insights into revenue, pricing trends, and comparisons with market value (MMR), helping to understand business performance and decision-making.
 
 ## Objectives
-### Analyze car sales performance across different dimensions
+* Analyze car sales performance across different dimensions
 Compare selling price with market value (MMR)
 Identify top-performing brands and models
 Visualize sales trends over time
